@@ -1,2 +1,2 @@
-# web-bootcamp
+# toy-personal-site
 
